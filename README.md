@@ -16,16 +16,17 @@ End the program.
 ## Program:
 ```python
 #Program to find the solution for the given linear equations.
-#Developed by: Aadhithya.M
-#RegisterNumber:22003465
+#Developed by: sanjai s
+#RegisterNumber:23003393
 import numpy as np
-A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
+A=np.array[[5,-3,-10],[2,2,-3],[-3,-1,5]]
 b=np.array([-9,4,-1])
-rank=np.linalg.solve(A,b)
-print(rank)
+c=np.linalg.solve(a,b)
+print(c)
 ```
 ## Output:
-![OUTPUT](https://user-images.githubusercontent.com/111619160/210325646-7caadaae-145a-4634-86a5-568a385f87cc.jpeg)
+![WhatsApp Image 2023-12-15 at 08 11 36_2cf95263](https://github.com/Sanjaikee/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/150231888/4b88d392-cf3c-4423-8db6-b341a0a2e671)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
